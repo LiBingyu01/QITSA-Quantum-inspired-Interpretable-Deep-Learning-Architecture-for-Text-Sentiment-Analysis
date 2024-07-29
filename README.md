@@ -49,8 +49,12 @@ Download the dataset:
 All the data output by BERT is released.
 Download:
 - [WordNet](https://drive.google.com/file/d/1zDPySBmsagwY1jIqzYejOOci-oFe51oe/view?usp=sharing).
-- [DataFormBERT](https://drive.google.com/drive/folders/1jGfXsjbmHRR3au_KWDcVkiupedlLs0aG?usp=sharing).
 And put it in the same location with train.py
+
+Download:
+- [DataFormBERT](https://drive.google.com/drive/folders/1jGfXsjbmHRR3au_KWDcVkiupedlLs0aG?usp=sharing).
+Unzip it and put it in the same location with train.py
+
 ```
 
 ## Model Zoo
