@@ -47,7 +47,9 @@ Text has become the predominant form of communication on social media, embedding
 ## Data preparation
 Download the dataset:
 All the data output by BERT is released.
-
+Download:
+- [WordNet](https://drive.google.com/file/d/1zDPySBmsagwY1jIqzYejOOci-oFe51oe/view?usp=sharing).
+And put it in the same location with train.py
 ```
 
 ## Model Zoo
