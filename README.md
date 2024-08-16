@@ -3,9 +3,14 @@
 ## Quantum-inspired Interpretable Deep Learning Architecture for Text Sentiment Analysis
 
 </div>
-
-
-</div>
+<p align="center">
+<a href="http://arxiv.org/abs/2408.07891">
+    <img src="https://img.shields.io/badge/arXiv-2408.07891-green" /></a>
+<a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/Framework-PyTorch-orange.svg" /></a>
+<a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
+</p>
 
 ## Introduction
 
